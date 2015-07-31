@@ -1,0 +1,7 @@
+ofxGui
+ofxOpenCv
+ofxXmlSettings
+ofxCv
+ofxSplashScreen
+ofxUVC
+ofxYAML
